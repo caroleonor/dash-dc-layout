@@ -27,7 +27,7 @@ app.layout = html.Div(children=[
     html.H2(myheading2),
     html.Div([
         html.Div([
-            html.Img(src=app.get_asset_url(image1), style={'width': '50%', 'height': 'auto'})
+            html.Img(src=app.get_asset_url(image1), style={'width': '70%', 'height': 'auto'})
         ],className='three columns'),
         html.Div([
             html.Img(src=app.get_asset_url(image2), style={'width': '80%', 'height': 'auto'}),
