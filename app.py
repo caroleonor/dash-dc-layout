@@ -6,14 +6,14 @@ import pandas as pd
 
 ########### Define your variables ######
 
-tabtitle = 'the district'
-myheading1 = 'Step Back! The doors are about to close!'
-myheading2 = 'Back2Good'
-image1 = 'dc-flag.jpg'
-image2 = 'metro-map.png'
-textbody = "Metro's recent on time performance ratings are so good, it's getting harder to find a good reason to take a car!"
-sourceurl = 'https://www.wmata.com/about/back2good/index.cfm'
-githublink = 'https://github.com/austinlasseter/dash-dc-layout'
+tabtitle = 'Freer Sackler'
+myheading1 = 'Whistler in Watercolor'
+myheading2 = 'May 18, 2019–November 3, 2019 in galleries 10 and 11'
+image1 = 'maxresdefault.jpg'
+image2 = 'FS-F1902.158a-c_001.jpg'
+textbody = "Recent research conducted by museum curators, scientists, and conservators now shines new light on Whistler’s materials, techniques, and artistic genius, as seen in this first major exhibition of his watercolors at the Freer Gallery since the 1930s."
+sourceurl = 'https://www.freersackler.si.edu/exhibition/whistler-in-watercolor/'
+githublink = 'https://github.com/caroleonor/dash-dc-layout/edit/master/app.py'
 
 ########### Initiate the app
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
