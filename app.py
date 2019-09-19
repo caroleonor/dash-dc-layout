@@ -11,7 +11,7 @@ myheading1 = 'Whistler in Watercolor'
 myheading2 = 'May 18, 2019–November 3, 2019 in galleries 10 and 11'
 image1 = 'maxresdefault.jpg'
 image2 = 'FS-F1902.158a-c_001.jpg'
-textbody = "Recent research conducted by museum curators, scientists, and conservators now shines new light on Whistler’s materials, techniques, and artistic genius, as seen in this first major exhibition of his watercolors at the Freer Gallery since the 1930s."
+textbody = "Recent research conducted by museum curators, scientists, and conservators now shines new light on Whistler’s materials, techniques, and artistic genius, as seen in this first major exhibition of his watercolors at the Freer Gallery."
 sourceurl = 'https://www.freersackler.si.edu/exhibition/whistler-in-watercolor/'
 githublink = 'https://github.com/caroleonor/dash-dc-layout/edit/master/app.py'
 
